@@ -2,27 +2,27 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1",
-      "image": "https://ibb.co/Jsw7XXc"
+      "title": "Travels and Tourism",
+      "description": "Booking airline tickets, hotel reservations, tourist visas and security approvals",
+      "image": "https://img.freepik.com/free-vector/design-thinking-concept-illustration_114360-3330.jpg"
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2",
+      "title": "Granting scholarships",
+      "description": "Providing educational scholarships, writing academic recommendations, preparing résumés/CVs",
       "image": "https://img.freepik.com/free-vector/flat-creativity-concept-illustration_52683-64279.jpg"
     },
     {
       "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3",
-      "image": "https://via.placeholder.com/150"
+      "title": "Translation Services",
+      "description": "Translation of legal, commercial, and governmental documents, as well as travel documents",
+      "image": "https://unblast.com/wp-content/uploads/2020/03/Illustrator-Vector-Illustration-1.jpg"
     },
     {
       "id": 4,
-      "title": "Post 4",
-      "description": "this is description 4",
-      "image": "https://via.placeholder.com/150"
+      "title": "Consultation and legal representation",
+      "description": "Providing comprehensive business consulting, legal services and representation in courts, handling commercial cases",
+      "image": "https://img.freepik.com/free-vector/business-idea-concept-with-people_52683-28609.jpg"
     }
   ],
   "comments": [
